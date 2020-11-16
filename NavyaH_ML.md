@@ -1,4 +1,4 @@
-##I have the knowledge on the following fields:
+## I have the knowledge on the following fields:
 #### 1.t statistic test,P statistic test.
 ##### 2.Hypothesis creations.
 ##### 3.Regressions like Lasso,ridge,simpleLinear regression,multiple linear regression,multivariate linear regression.
